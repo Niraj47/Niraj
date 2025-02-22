@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niraj47
+- 👋 Hi, I’m @Niraj
 - 👀 I’m interested in Security.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me nirajthapa556@gmail.com
