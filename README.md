@@ -81,11 +81,11 @@ I actively validate my expertise through industry-recognized certifications:
 
 ### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj47&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Niraj's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj47&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niraj47&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj47&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Niraj47&theme=midnight-purple&hide_border=true&background=0D1117" alt="Streak Stats" width="98%" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Niraj47&theme=midnight-purple&hide_border=true&background=0D1117" height="180" alt="streak graph" />
+</div>
